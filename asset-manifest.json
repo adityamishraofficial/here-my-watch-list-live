@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/here-my-watch-list-live.github.io/static/css/main.458ac6e6.css",
-    "main.js": "/here-my-watch-list-live.github.io/static/js/main.10360356.js",
+    "main.js": "/here-my-watch-list-live.github.io/static/js/main.44e998c1.js",
     "static/js/453.6d8d3267.chunk.js": "/here-my-watch-list-live.github.io/static/js/453.6d8d3267.chunk.js",
     "static/media/roboto-latin-500-normal.woff2": "/here-my-watch-list-live.github.io/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/here-my-watch-list-live.github.io/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
@@ -61,11 +61,11 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/here-my-watch-list-live.github.io/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/here-my-watch-list-live.github.io/index.html",
     "main.458ac6e6.css.map": "/here-my-watch-list-live.github.io/static/css/main.458ac6e6.css.map",
-    "main.10360356.js.map": "/here-my-watch-list-live.github.io/static/js/main.10360356.js.map",
+    "main.44e998c1.js.map": "/here-my-watch-list-live.github.io/static/js/main.44e998c1.js.map",
     "453.6d8d3267.chunk.js.map": "/here-my-watch-list-live.github.io/static/js/453.6d8d3267.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.458ac6e6.css",
-    "static/js/main.10360356.js"
+    "static/js/main.44e998c1.js"
   ]
 }
